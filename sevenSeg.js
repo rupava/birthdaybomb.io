@@ -32,14 +32,14 @@ options: {
     /**
     Override the default segment on color (Red).  
     Note: You can alternatively define a CSS style for the class.sevenSeg-segOn that specifies a 'fill' color.
-    */
+    "#ff3300"*/
     colorOn: null,
 
     /**
     Override the default segment off color (#320000).  
     Note: You can alternatively define a CSS style for the class .sevenSeg-svg that specifies a 'fill' color.
     */
-    colorOff: null,
+    colorOff: "#1a0500",
 
     /**
     Override the default background color of the display (Black).  
